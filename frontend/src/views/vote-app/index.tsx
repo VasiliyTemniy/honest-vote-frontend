@@ -18,7 +18,7 @@ export const VoteAppView: FC = () => {
             1. You can create a poll
           </div>
           <div className="text-left text-sm">
-            2. You can a subject to your poll
+            2. You can add a subject to your poll
           </div>
           <div className="text-left text-sm">
             3. You cannot add a subject to another person&apos;s poll
